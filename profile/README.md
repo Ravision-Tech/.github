@@ -39,5 +39,5 @@ Have a project in mind? Reach us at [hello@ravisiontech.com](mailto:hello@ravisi
 ---
 
 <p align="center">
-  <sub>© 2025 Ravision Tech LLC — All rights reserved</sub>
+  <sub>© 2026 Ravision Tech LLC — All rights reserved</sub>
 </p>
